@@ -1,5 +1,8 @@
 # Reinforcement-learning---Basic
-Basic understanding of Reinforcement learning
+Basic understanding of Reinforcement learning  
+
+Frozen environment  
+
 V function  
 Q function  
 
